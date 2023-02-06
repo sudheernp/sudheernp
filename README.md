@@ -1,5 +1,7 @@
 
-[![MasterHead](https://github.com/sudheernp/sudheernp/blob/main/sudheer%20n.gif)]
+
+
+<img src=https://github.com/sudheernp/sudheernp/blob/main/sudheer%20n.gif width=1000 height=300 >
 
 <h1 align="center">Hi 👋, I'm Sudheer</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
